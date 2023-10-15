@@ -1,5 +1,4 @@
-# [Statistically Preconditioned Accelerated Gradient Method
-for Distributed Optimization](http://proceedings.mlr.press/v119/hendrikx20a/hendrikx20a.pdf)
+# [Statistically Preconditioned Accelerated Gradient Method for Distributed Optimization](http://proceedings.mlr.press/v119/hendrikx20a/hendrikx20a.pdf)
 
 ### Problem Statement:
 This research deals with the challenge of distributed empirical risk minimization. It focuses on situations where multiple machines calculate gradients at the same time, and a central server updates model parameters. The main problem is to reduce the number of communications needed to reach a specific level of accuracy in this context.
